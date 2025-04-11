@@ -1,6 +1,6 @@
 # AI探索者————大模型测评平台
 ## 操作说明
->请从该仓库中下载该项目，然后导入VScode或Pycharm等中，部署ollama和vue后进行开发
+>请从该仓库中下载该项目，然后导入VScode或Pycharm等中，部署ollama和vue后即可运行
 ## 文件
 >aaibench_2024b_basic.csv  题库数据 <br/>
 >input_jzg.csv             选择的种子词库 <br/>
